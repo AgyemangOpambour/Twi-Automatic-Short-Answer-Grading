@@ -2,8 +2,8 @@
 ## Overview 
 Welcome to our Twi Automated Short Answer Grading (ASAG) system repository! We're dedicated to advancing ASAG in low-resource languages, and this repository serves as a comprehensive resource for our work.
 
-Key Components:
-ASAG Corpus: In the "corpus" directory, you'll find essential datasets. "English" contains the benchmark dataset, "perfect_mohler_dataset_edited.csv." "Twi" hosts the "translated_data_twi.csv" and "perfect_twi_trans_test_data," fundamental for our Twi ASAG system.
+### Key Components:     <br>
+* **ASAG Corpus:** In the "corpus" directory, you'll find essential datasets. "English" contains the benchmark dataset, "perfect_mohler_dataset_edited.csv." "Twi" hosts the "translated_data_twi.csv" and "perfect_twi_trans_test_data," fundamental for our Twi ASAG system.
 
 ChatGPT Models: We've included scripts and resources for our ChatGPT-based ASAG models. They are designed to evaluate and grade answers in Twi.
 
